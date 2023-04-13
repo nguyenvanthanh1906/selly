@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# selly
-=======
-# projectX
-
-## ZMP CLI Options
-
-ZMP app created with following options:
-
-```
 {
   "cwd": "/home/thanh/Documents/projectx",
   "name": "projectX",
@@ -27,10 +17,3 @@ ZMP app created with following options:
     "useUiKits": true
   }
 }
-```
-
-## NPM Scripts
-
-* 🔥 `start` - run development server
-* 🙏 `deploy` - deploy mini app for production
->>>>>>> 9e6ffa0 (init)
